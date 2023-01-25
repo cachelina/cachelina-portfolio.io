@@ -1,1 +1,1 @@
-![portfolio-site](img/cachelina.png)
+![portfolio-site](img/avatar.png)
